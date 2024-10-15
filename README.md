@@ -4,6 +4,8 @@
 
 This repository contains scripts for automated price taking in the game Escape from Tarkov (EFT) (registered trademark fully owned by Battlestate Games), using tarkov.dev API.
 
+This repositody is only for gaming purposes. If you somehow ended up here looking for scientific conter, it does not exist here :D
+
 Item names are shown in russian as this game is initially designed for the language. To sey scripts to other languages, you need to modify queries submitted to tarkov.dev API (field "lang").
 
 #### Requirements
@@ -54,7 +56,7 @@ Since we are not modifying any game files/data, not doing anything to negatively
 #### Функциональность
 Подробные описания см. в скрипте helper_functions.py и Tarkov_price_tracking.ipynb.
 
-Вкратце, эти скрипты позволяют отслеживать исторические изменения цен на любой предмет в EFT за последние 7 дней. Его можно использовать для определения предметов, которые в настоящее время недооценены или переоценены. Кроме того, скрипт также позволяет определять выгодные возможности перепродажи товаров трейдеров на барахолке и минимальную прибылбную цену для перепродажи предмета.
+Вкратце, эти скрипты позволяют отслеживать исторические изменения цен на любой предмет в EFT за последние 7 дней. Его можно использовать для определения предметов, которые в настоящее время недооценены или переоценены. Кроме того, скрипт также позволяет определять выгодные возможности перепродажи товаров трейдеров на барахолке и минимальную прибыльную цену для перепродажи предмета.
 
 #### Соображения
 Поскольку мы не изменяем никакие игровые файлы/данные, не делаем ничего, что могло бы негативно повлиять на других игроков, и используем только общедоступные данные из Интернета, это не является читерством. Этот набор скриптов поможет вам быть более информированными при торговле предметами на барахолке в EFT. Кроме того, он делает блошиный рынок более эффективным. НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ НЕ СОЗДАВАЙТЕ ТОРГОВЫХ БОТОВ С ПОМОЩЬЮ ДАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ. АВТОР НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ, если Battlestate Games заблокирует ваш аккаунт по какой-либо причине.
