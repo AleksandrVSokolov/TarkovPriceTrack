@@ -8,6 +8,9 @@ This repositody is only for gaming purposes. If you somehow ended up here lookin
 
 Item names are shown in russian as this game is initially designed for the language. To sey scripts to other languages, you need to modify queries submitted to tarkov.dev API (field "lang").
 
+![Пачка сахара](https://github.com/user-attachments/assets/96a7c71d-8315-4ffc-a820-cca39415582d)
+
+
 #### Requirements
 
  - Working python environment that is compatible with packages below
@@ -37,6 +40,9 @@ Since we are not modifying any game files/data, not doing anything to negatively
 Этот репозиторий содержит скрипты для автоматического получения цен в игре Escape from Tarkov (EFT) (зарегистрированная торговая марка, полностью принадлежащая Battlestate Games), использующий API tarkov.dev.
 
 Названия предметов отображаются на русском языке, так как игра изначально разработана для этого языка. Чтобы использовать скрипты на других языках, вам необходимо изменить запросы, отправленные в API tarkov.dev (поле "lang").
+
+![Пачка сахара](https://github.com/user-attachments/assets/01009d38-a75a-4323-9072-fc4982f031b7)
+
 
 #### Требования
 
