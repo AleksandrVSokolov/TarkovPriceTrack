@@ -4,7 +4,7 @@
 
 This repository contains scripts for automated price taking in the game Escape from Tarkov (EFT) (registered trademark fully owned by Battlestate Games), using tarkov.dev API.
 
-This repositody is only for gaming purposes. If you somehow ended up here looking for scientific conter, it does not exist here :D
+This repositody is only for gaming purposes. If you somehow ended up here looking for scientific content, it does not exist here :D
 
 Item names are shown in russian as this game is initially designed for the language. To sey scripts to other languages, you need to modify queries submitted to tarkov.dev API (field "lang").
 
