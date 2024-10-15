@@ -6,7 +6,7 @@ This repository contains scripts for automated price taking in the game Escape f
 
 This repositody is only for gaming purposes. If you somehow ended up here looking for scientific content, it does not exist here :D
 
-Item names are shown in russian as this game is initially designed for the language. To sey scripts to other languages, you need to modify queries submitted to tarkov.dev API (field "lang").
+Item names are shown in russian as this game is initially designed for the language. To set scripts to other languages, you need to modify queries submitted to tarkov.dev API (field "lang").
 
 ![Пачка сахара](https://github.com/user-attachments/assets/96a7c71d-8315-4ffc-a820-cca39415582d)
 
