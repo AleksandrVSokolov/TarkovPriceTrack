@@ -1,6 +1,6 @@
 
 
-### TarkovPriceTrack (ENG)
+### Tarkov Price Track (ENG)
 
 This repository contains scripts for automated price taking in the game Escape from Tarkov (EFT) (registered trademark fully owned by Battlestate Games), using tarkov.dev API.
 
@@ -35,7 +35,7 @@ Briefly, theses scripts allow tracking historical price changes for any item in 
 Since we are not modifying any game files/data, not doing anything to negatively affect other players, and only use public data from the web, this is not cheating. This set of tools could make you more informed when you trade items at the flea market. Additionally, it makes flea market more efficient. UNDER ANY CIRCUMSTANCES, DO NOT MAKE TRADING BOTS WITH THIS SOFTWARE. AUTHOR HAS NO RESPONSIBILITY IF Battlestate Games bans your account for whatever reason and, besides, cheating is disgusting anyways.
 
 
-### TarkovPriceTrack (RUS)
+### Tarkov Price Track (RUS)
 
 Этот репозиторий содержит скрипты для автоматического получения цен в игре Escape from Tarkov (EFT) (зарегистрированная торговая марка, полностью принадлежащая Battlestate Games), использующий API tarkov.dev.
 
